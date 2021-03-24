@@ -1,3 +1,5 @@
+package cr.ac.itcr.main;
+
 public class Calculator {
 
     public int sum(int a, int b){
@@ -17,10 +19,6 @@ public class Calculator {
 
     }
 
-    /*public static void main(String[] args) {
-        Calculator calc = new Calculator();
-        int res = calc.sum(10,5);
-        System.out.println(res);
-    }*/
+
 
 }
